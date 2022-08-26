@@ -1,16 +1,13 @@
-## Go Ethereum
+## Duwbnet
 
-Official Golang implementation of the Ethereum protocol.
+[Ultra-wideband (UWB)](https://www.duwb.com/#/) is a radio technology that can use a very low energy level for short-range, high-bandwidth communications over a large portion of the radio spectrum.UWB has traditional applications in non-cooperative radar imaging. Most recent applications target sensor data collection, precision locating and tracking applications.
 
-[![API Reference](
-https://camo.githubusercontent.com/915b7be44ada53c290eb157634330494ebe3e30a/68747470733a2f2f676f646f632e6f72672f6769746875622e636f6d2f676f6c616e672f6764646f3f7374617475732e737667
-)](https://pkg.go.dev/github.com/ethereum/go-ethereum?tab=doc)
-[![Go Report Card](https://goreportcard.com/badge/github.com/ethereum/go-ethereum)](https://goreportcard.com/report/github.com/ethereum/go-ethereum)
+
 [![Travis](https://travis-ci.com/ethereum/go-ethereum.svg?branch=master)](https://travis-ci.com/ethereum/go-ethereum)
-[![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.gg/nthXNEv)
+[![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.com/invite/PezvReGu)
 
-Automated builds are available for stable releases and the unstable master branch. Binary
-archives are published at https://geth.ethereum.org/downloads/.
+
+Most functionality of this client is similar to `go-ethereum`, also known as `geth`, from which it was forked. If you do not find your question answered by Celo-specific documentation, try searching the [geth wiki](https://github.com/ethereum/go-ethereum/wiki).
 
 ## Building the source
 
